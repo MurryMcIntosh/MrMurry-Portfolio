@@ -1,5 +1,5 @@
 # MrMurry-Portfolio
-Hello, my name is Mr. Murry and this is my awesome portfolio. Please check out all the sweet stuff.
+Hello, my name is Mr. Murry and this is my awesome portfolio. Students in my Introduction to Software Technology course at [McIntosh High School](https://www.fcboe.org/mhs) are using GitHub to host their portfolios.
 
 Here is an example of LMC assembly
 ```
