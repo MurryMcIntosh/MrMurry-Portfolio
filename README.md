@@ -1,6 +1,10 @@
 # MrMurry-Portfolio
 Hello, my name is Mr. Murry and this is my awesome portfolio. Students in my Introduction to Software Technology course at [McIntosh High School](https://www.fcboe.org/mhs) are using GitHub to host their portfolios.
 
+## Contents
+- [Resume](RESUME.md)
+
+
 Here is an example of LMC assembly
 ```
 LDA VAR1
