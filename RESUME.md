@@ -20,3 +20,7 @@ McIntosh High School - Animation, Computer Science, and Math Teacher
 ## Typing
 - Keys Learned
   - J, F, Space
+  - U, R, K
+  - D, E, I
+  - C, G, N
+  - 
