@@ -17,4 +17,6 @@ McIntosh High School - Animation, Computer Science, and Math Teacher
 - Coding and stuff
 - Fighting bears
 
-
+## Typing
+- Keys Learned
+  - J, F, Space
